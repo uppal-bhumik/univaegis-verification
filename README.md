@@ -58,7 +58,7 @@ The Frontend will start at `http://localhost:5173`
 
 ## 📸 Project Demo
 
-*(Paste your video link here after recording)*
+https://www.loom.com/share/4b455c09f49c42d2912e8f43610574ac
 
 ---
 
